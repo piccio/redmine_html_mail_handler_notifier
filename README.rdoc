@@ -1,4 +1,5 @@
 = redmine_html_mail_handler_notifier
 
-tested on redmine 2.6.0 and on redmine 3.4.4
+use version 2.x with redmine 2.x and redmine 3.x (tested on redmine 2.6.0 and on redmine 3.4.4)
 
+use version 3.x with redmine 4.x (tested on redmine 4.0.4)

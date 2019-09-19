@@ -11,7 +11,7 @@ Redmine::Plugin.register :redmine_html_mail_handler_notifier do
   name 'Redmine Html Mail Handler Notifier plugin'
   author 'Roberto Piccini'
   description 'send a email to the user if he submitted invalid issue or invalid comment via email'
-  version '2.0.0'
+  version '3.0.0'
   url 'https://github.com/piccio/redmine_html_mail_handler_notifier'
   author_url 'https://github.com/piccio'
 
